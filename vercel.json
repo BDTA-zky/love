@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/buzz.html" }
+    { "source": "/(.*)", "destination": "/吴阴天.html" }
   ]
 }
